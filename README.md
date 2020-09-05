@@ -16,6 +16,9 @@
 ## Note
 
 - Per hour: 0.25 Wh
+- Battery: 3.7V / 350 mAh = 1.295 Wh (≈ 5 hours)
+- SoC: [nRF 51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822)
+- Sensor: [PMS 7003](http://www.plantower.com/en/content/?110.html)
 
 ## Online Client
 
