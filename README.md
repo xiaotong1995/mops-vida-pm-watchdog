@@ -13,6 +13,10 @@
   <br><http://mops.lianluo.com/vida/xinfeng/app/download>
   <br><https://mops-oss.lianluo.com/xinfeng/software/20180211180753SFmSTILc83m0.apk>
 
+## Note
+
+- Per hour: 0.25 Wh
+
 ## Online Client
 
 <https://nicelabs.github.io/mops-vida-pm-watchdog>
