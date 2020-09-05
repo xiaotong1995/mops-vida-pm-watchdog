@@ -19,6 +19,9 @@
 - Battery: 3.7V / 350 mAh = 1.295 Wh (≈ 5 hours)
 - SoC: [nRF 51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822)
 - Sensor: [PMS 7003](http://www.plantower.com/en/content/?110.html)
+- [Protocol design](docs/protocol-design.md)
+- [App decompile note](docs/decompile.md)
+- [PINOUT](docs/PINOUT.md)
 
 ## Online Client
 
@@ -30,7 +33,4 @@
 
 ## Resources
 
-- [docs/protocol-design.md](docs/protocol-design.md)
-- [docs/PINOUT.md](docs/PINOUT.md)
-- [docs/decompile.md](docs/decompile.md)
-- [docs/firmware/3_16.zip](docs/firmware/3_16.zip) (Latest DFU firmware)
+- [1.16 OTA firmware](docs/firmware/3_16.zip)
